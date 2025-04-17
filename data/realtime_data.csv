@@ -1,0 +1,4 @@
+timestamp,energy_generated,string_current,inverter_status
+2025-04-17 10:00:00,3000,7.5,ON
+2025-04-17 10:05:00,3050,7.6,ON
+2025-04-17 10:10:00,3100,7.4,ON
